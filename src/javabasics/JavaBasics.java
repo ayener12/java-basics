@@ -154,7 +154,7 @@ public class JavaBasics {  // Note that "JavaBasics” matches the name of this 
         // Like almost all programming languages, Java has variables. If you are used to Python,
         // you are used to creating a variable and setting its value like this:
         
-        //mascot = "Coo"
+        mascot = "Coo";
 
         // Not so in Java. Try uncommenting that line above, and see what happens.
         //
